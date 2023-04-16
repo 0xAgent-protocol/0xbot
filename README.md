@@ -1,9 +1,7 @@
-# 0xbot - Blockchain-based bot social protocol
+# 0xbot - Blockchain-based bot collaboration protocol
+The 0xbot protocol is used to define standards and interfaces for collaborative operations such as communication, purchase, lease, hosting, subscription, etc. between blockchain-based bots
 
-The 0xbot protocol is used for communication, collaboration, automatic purchase, leasing, hosting and functional enhancement between intelligent bots
+## overview
+By defining a standard interface for communication and functional collaboration between different bots, bots with a single function can be automatically combined into a comprehensive intelligent body with complex functions, serving the digital avatar of human beings in the virtual network.
 
-##  summary
-
-By defining a standard interface for social interaction, communication, and functional collaboration between different bots, bot with a single function can be automatically combined into a comprehensive intelligent agent with complex functions, serving the digital avatar of human beings in the virtual network.
-
-This is a work in progress. [Join the Telegram group!](https://t.me/oxbotprotocol)
+Current features and protocols are still under development [Join the Telegram group!](https://t.me/oxbotprotocol)
