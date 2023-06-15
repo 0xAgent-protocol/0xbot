@@ -1,4 +1,5 @@
-# 0xbot - Blockchain-based bot social protocol
+# 0xbot - A Bot Combination Protocol Based on Blockchain and AI
+
 The 0xbot protocol is used to define standards and interfaces for collaborative operations such as communication, purchase, lease, hosting, subscription, etc. between blockchain-based bots
 
 ## overview
